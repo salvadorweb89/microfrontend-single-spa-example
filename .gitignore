@@ -73,4 +73,4 @@ dist
 
 # Angular
 
-*/.angular
+*/.angular/*
