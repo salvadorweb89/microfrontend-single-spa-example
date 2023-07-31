@@ -7,6 +7,7 @@ services:
     env_file: ./.env
     ports:
       - $NODE_LOCAL_PORT:$NODE_DOCKER_PORT
+      - $ANGULAR_LOCAL_PORT:$ANGULAR_DOCKER_PORT
     volumes:
       - .:/microfrontend
     command: sh -c "npm install && npm start"
