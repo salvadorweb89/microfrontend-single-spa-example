@@ -3,7 +3,7 @@ A micro-frontend Single Spa example project.
 
 https://single-spa.js.org/docs/getting-started-overview
 
-This project contains a docker-compose NodeJS image container with a Single-Spa Root app inside. This is a Microfrontends Ecosystem composed by a root app that are integrated with several frontend micro-apps.
+This project contains a docker-compose NodeJS image container with a Single-Spa Root app inside. It also loads an external React sub app, that is exposed through 8080 localhost port fron docker container https://github.com/salvadorweb89/microfrontend-sub-app-react-example. This is a Microfrontends Ecosystem composed by a root app that are integrated with several frontend micro-apps.
 
 Microfrontend architecture builds a frontend layer composed by several micro-apps. The root app is completely agnostic to sub-apps that loads. Each one uses its own framework and technology, and these doesn't conflicts or affects rendering each others.
 
