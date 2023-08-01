@@ -18,6 +18,7 @@ It has many benefits:
 - Development timing are reduced, as each dev team would have their own release dates, objetives, epics, etc. This is without affecting other dev teams as each product feature works separately.
 - Less issues and troubles between features, as each micro-app runs separately, and his issues doesn't affects the rest
 
-![image](https://github.com/salvadorweb89/microfrontend-single-spa-example/assets/9569430/e93910dd-849b-4462-938c-bb0838c54f49 "Monolytic Frontend")
+![image](https://github.com/salvadorweb89/microfrontend-single-spa-example/assets/9569430/a05ac7ef-ba34-4609-a104-fd1e0e0ec05b "Monolytic Frontend")
 
-![image](https://github.com/salvadorweb89/microfrontend-single-spa-example/assets/9569430/4d954811-07a4-4dce-8b8c-b9cce420a8b8 "End-to-end Teams with Micro-frontend Apps")
+![image](https://github.com/salvadorweb89/microfrontend-single-spa-example/assets/9569430/c5cd30c0-d122-4006-a88f-ec020c906b59 "End-to-end Teams with Micro-frontend Apps")
+
